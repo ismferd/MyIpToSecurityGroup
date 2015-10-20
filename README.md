@@ -6,7 +6,7 @@ This script add your IP to SG that you like choose.
 You need the credentials "aws_access_key_id" and "aws_secret_access_key" into $HOME/.aws/config
 
 #SETTING
-Setting   $HOME/.aws/config: 
+Setting   $HOME/.aws/config.
 
 example:
 
