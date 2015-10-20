@@ -7,6 +7,7 @@ You need the credentials "aws_access_key_id" and "aws_secret_access_key" into $H
 
 #SETTING
 Setting   $HOME/.aws/config: 
+
 example:
 
   [profile environment-pro]
