@@ -5,12 +5,10 @@ Add myIP to segurity group for AWS account
 This script add your IP to SG that you like choose.
 You need the credentials "aws_access_key_id" and "aws_secret_access_key" into $HOME/.aws/config
 
-#LAUNCH
-For run launch:
+#SETTING
+Setting   $HOME/.aws/config: 
 example:
 
-File config:
-  $HOME/.aws/config:
   [profile environment-pro]
   output = table
   region = eu-west-1
